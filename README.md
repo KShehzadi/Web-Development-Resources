@@ -1,4 +1,4 @@
-# Web-Development-Resources
+# Web Development Free Resources
 ## Online learning platforms 🎓
 
 - Udemy 
